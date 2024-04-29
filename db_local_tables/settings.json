@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6479db15bc5d7f270778c847"
+  },
+  "type": "settings",
+  "setting": {
+    "radius": 4000,
+    "smtpEmail": "radius.app11@gmail.com",
+    "smtpPass": "dmibqtlomveggsgb"
+  }
+}]

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592839858784",
+    "firebase_url": "https://radius-7424e-default-rtdb.firebaseio.com",
+    "project_id": "radius-7424e",
+    "storage_bucket": "radius-7424e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592839858784:android:ba42596d3d5d05aa578105",
+        "android_client_info": {
+          "package_name": "com.example.radius_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592839858784-128phafl6k418g12eedn53c4hf9s02pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1kabl5v5YjOqOi7IO6kdM2VDMZNnLUnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592839858784-128phafl6k418g12eedn53c4hf9s02pk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592839858784-mvte7r5bb1uq2o8pnecus56ji02ho3i4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.radiusApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
